@@ -153,10 +153,6 @@ The inspection workspace links the asset/component hierarchy to operational data
 
 *Figure 7. Point-cloud model with anomaly and event labels*
 
-![PDF Viewer with linked technical drawing](./docs/images/end-user-operating-procedure/figure-08.png)
-
-*Figure 8. PDF Viewer with linked technical drawing*
-
 ![Interactive 3D drawing view](./docs/images/end-user-operating-procedure/figure-09.png)
 
 *Figure 9. Interactive 3D drawing view*
